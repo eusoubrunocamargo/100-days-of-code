@@ -5,3 +5,6 @@
 
 ### Day 2: June 22, 2022
 **Today's Progress**: I'm learning about Variables and Data Types @freeCodeCamp.
+
+### Day 3: June 23, 2022
+**Today's Progress**: I'm learning about math operators and arrays @freeCodeCamp.
