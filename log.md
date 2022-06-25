@@ -8,3 +8,6 @@
 
 ### Day 3: June 23, 2022
 **Today's Progress**: I'm learning about math operators and arrays @freeCodeCamp.
+
+### Day 4: June 24, 2022
+**Today's Progress**: I'm learning about booleans, logical conditional and switch @freeCodeCamp.
