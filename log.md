@@ -11,3 +11,8 @@
 
 ### Day 4: June 24, 2022
 **Today's Progress**: I'm learning about booleans, logical conditional and switch @freeCodeCamp.
+
+### Day 5: June 25, 2022
+**Today's Progress**: I practiced some booleans, logical conditional and switch!
+@freeCodeCamp
+
