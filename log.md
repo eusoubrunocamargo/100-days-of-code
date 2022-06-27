@@ -16,3 +16,6 @@
 **Today's Progress**: I practiced some booleans, logical conditional and switch!
 @freeCodeCamp
 
+### Day 6: June 26, 2022
+**Today's Progress**: I'm learning about objects and properties.
+@freeCodeCamp
