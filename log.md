@@ -19,3 +19,7 @@
 ### Day 6: June 26, 2022
 **Today's Progress**: I'm learning about objects and properties.
 @freeCodeCamp
+
+### Day 7: June 27, 2022
+**Today's Progress**: Today wasn't a productive day, looking to get back on track tomorrow.
+@freeCodeCamp
