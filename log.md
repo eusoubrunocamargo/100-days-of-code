@@ -27,3 +27,7 @@
 ### Day 8: June 28, 2022
 **Today's Progress**: I'm learning about loops and multidimensional arrays.
 @freeCodeCamp
+
+### Day 9: June 29, 2022
+**Today's Progress**: Learned about recursion and finished Basic Javascript @freeCodeCamp
+ #100daysofcode #100daysofcodechallenge #javascript
