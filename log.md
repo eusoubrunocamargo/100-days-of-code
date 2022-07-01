@@ -31,3 +31,7 @@
 ### Day 9: June 29, 2022
 **Today's Progress**: Learned about recursion and finished Basic Javascript @freeCodeCamp
  #100daysofcode #100daysofcodechallenge #javascript
+ 
+### Day 10: June 30, 2022
+**Today's Progress**: Practiced all I've learned @freeCodeCamp && I'll start html/css tomorrow.
+ #100daysofcode #100daysofcodechallenge #javascript
